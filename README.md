@@ -2,7 +2,7 @@
 
 **Asignatura:** Programación Orientada a Objetos 
 
-**Estudiante:** Jenniffer Elizabeth Achina NArvaez
+**Estudiante:** Jenniffer Elizabeth Achina Narvaez
 
 ## Descripción del Proyecto
 Este sistema interactivo por consola permite registrar y listar productos, bebidas y clientes para un restaurante, desarrollado bajo un enfoque modular aplicando los principios SOLID.
